@@ -36,4 +36,6 @@ public class TwoWheeler extends Vehicle {
     public void setTwoWheelerType(String twoWheelerType) {
 	this.twoWheelerType = twoWheelerType;
     }
+    // changed 2	ok
+	
 }
