@@ -25,5 +25,5 @@ public class FourWheeler extends Vehicle {
     public void setSeatCapacity(byte noOfStroke) {
 	this.seatCapacity = seatCapacity;
     }
-
+    // changed
 }
